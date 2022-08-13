@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052717442077",
+    "project_id": "invfb-9080b",
+    "storage_bucket": "invfb-9080b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052717442077:android:c1c02ba005071c1dcbd2f4",
+        "android_client_info": {
+          "package_name": "com.example.topsecrepfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052717442077-lgpolr8i3nvelk94im2ghp5b327hl008.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlHxoGLKwh3C_LHpL6WvcTY9IK3dND7uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052717442077-lgpolr8i3nvelk94im2ghp5b327hl008.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
